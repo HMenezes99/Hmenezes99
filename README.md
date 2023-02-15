@@ -18,4 +18,4 @@
 </div>
 
 
-![Snake Animation](https://github.com/HMenezes99/Hmenezes99/blob/main/.github/workflows/main.yml)
+![Snake Animation](https://github.com/HMenezes99/Hmenezes99/blob/main/.github/workflows/cobrinha.yml)
